@@ -545,7 +545,7 @@ svg {
   padding: 5px;
 }
 
-@media screen and (max-width: 1380px) {
+/* @media screen and (max-width: 1380px) {
   .navbar {
     display: flex;
     flex-direction: column;
@@ -618,12 +618,7 @@ svg {
     margin-top: 4%;
     font-size: 30px;
   }
-  .nav{
-    /* height: 100px; */
-    /* width:200px; */
-    /* margin-top: 4%; */
-    /* font-size: 25px; */
-  }
+ 
   .footer{
     padding-top: 20%;
   }
@@ -686,4 +681,4 @@ height: 70px;
   }
 
  
-}
+} */
